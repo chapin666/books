@@ -6,10 +6,15 @@
 - **[经典算法c和java的实现](algorithm/经典算法c和java的实现.zip)**
 - **[垃圾回收的算法与实现---文字版](algorithm/垃圾回收的算法与实现---文字版.pdf)**
 - **[算法图解( 入门)](algorithm/算法图解(入门).pdf)**
+- **[LeetCode-101(C++Version)](algorithm/LeetCode-101(C++Version).pdf)**
 
 ## Architecture
 
 - **[software-architecture-patterns](architecture/software-architecture-patterns.pdf)**
+
+## DDD
+
+- **[领域驱动设计精简版](ddd/领域驱动设计精简版.pdf)**
 
 ## OS
 
